@@ -1,7 +1,6 @@
 ## Información primaria  
 
-Se está usando redux-toolkit, ya está configurado con su respectivo store. De momento solo se creó un slice, el cual es para manejar  
-el array de personas desaparecidas.  
+Se está usando redux-toolkit, ya está configurado con su respectivo store. De momento solo se creó un slice, el cual es para manejar  el array de personas desaparecidas.  
 El archivo desaparecidos.thunk.js en la carpeta thunks, es el encargado de hacer las peticiones a nivel de redux.  
 Para mas info, ver la documentacion de redux <a href="https://redux-toolkit.js.org/tutorials/quick-start"> Redux Toolkit</a>
 

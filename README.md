@@ -15,7 +15,7 @@ Dejo la documentacion y un video de muestra
 Para la navegación se usará un bottomTab, si desea agregar una ruta principal, dirigirse al archivo Navigation.
 
 ### API  
-* Tambien se ha creado un cliente axios listo para usarse, deser necesario cambie la url de la api.
+* Tambien se ha creado un cliente axios listo para usarse, de ser necesario cambie la url de la api.
 * Tambien se creó un servicio listo para llenar las peticiones a la api.
 
 

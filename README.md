@@ -20,7 +20,8 @@ Para la navegación se usará un bottomTab, si desea agregar una ruta principal,
 
 
 ### Instalación
-    ``` bash
+
+    ``` 
         npm install 
         npm run android
     ```
